@@ -57,6 +57,13 @@ Example plot:
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the repository
-```bash
+### 1️. Clone the repository
 git clone https://github.com/JakkuTejaswi/cifar100-image-classification.git
+
+### 2. Install dependencies
+pip install tensorflow numpy matplotlib
+
+## 3. Run the notebook or script
+jupyter notebook CNN.ipynb
+
+
